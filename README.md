@@ -1,6 +1,8 @@
 # Three-React
 
-Three-React is a small example template for combining Interactive Three JS elements with React.  The gif above shows a user hovering on Three JS cubes, triggering a react popup, then using the popup to alter the color of the 3d cube.
+Three-React is a small example template for combining Interactive Three JS elements with React.  The gif below shows a user hovering on Three JS cubes, triggering a react popup, then using the popup to alter the color of the 3d cube.
+
+![Three-React](https://raw.githubusercontent.com/bakenator/Three-React/master/hover-block.gif)
 
 ## Instructions to Run:
 
