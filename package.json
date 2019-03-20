@@ -1,0 +1,22 @@
+{
+  "name": "three-react",
+  "version": "1.0.0",
+  "description": "**Build Commands:**",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-autobind": "^1.0.6",
+    "react-dom": "^16.8.4",
+    "three": "^0.102.1",
+    "three-orbit-controls": "^82.1.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
